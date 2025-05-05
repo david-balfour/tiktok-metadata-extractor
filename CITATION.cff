@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using the information below."
+authors:
+  - family-names: "Balfour"
+    given-names: "David"
+    orcid: "https://orcid.org/0000-0002-5295-8806"
+title: "TikTok Metadata Extractor" # Or your preferred title
+version: 1.0.0
+doi: ""
+date-released: 2025-05-05
+url: "https://github.com/david-balfour/tiktok-metadata-extractor/"
