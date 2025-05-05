@@ -1,5 +1,5 @@
-# tiktok-metadata-extractor
-A tool to extract metadata from TikTok videos for research purposes.
+# TikTok Metadata Extractor
+A tool to extract metadata from TikTok videos, for research purposes.
 
 Instructions
 1. Open a new incognito window in Chrome (CTRL + Shift + N)
@@ -14,7 +14,8 @@ Instructions
 
 Disclaimer: While we believe this tool is accurate and effective as of May 2025, it may cease to work or change in unexpected ways if TikTok update their platform. Also, we cannot guarantee that there are no unknown issues that will result in inaccurate data extraction, so if you use the tool, you are using it at your own risk.
 
-This tool was made by David Balfour in the Behavioural GEMs lab at Flinders University. Please contact david.balfour@flinders.edu.au for feedback, help, and more information. If you use the tool, please reference it using the appropriate DOI.
+This tool was made by David Balfour in the Behavioural GEMs lab at Flinders University. Please contact david.balfour@flinders.edu.au for feedback, help, and more information. If you use the tool, please reference it using the DOI below.
 
-How to Cite
+# How to Cite
+
 Balfour, D. (2025). TikTok Metadata Extractor (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.15341720
