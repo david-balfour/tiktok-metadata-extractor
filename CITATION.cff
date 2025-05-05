@@ -4,8 +4,8 @@ authors:
   - family-names: "Balfour"
     given-names: "David"
     orcid: "https://orcid.org/0000-0002-5295-8806"
-title: "TikTok Metadata Extractor" # Or your preferred title
+title: "TikTok Metadata Extractor"
 version: 1.0.0
-doi: ""
+doi: "10.5281/zenodo.15341720"
 date-released: 2025-05-05
 url: "https://github.com/david-balfour/tiktok-metadata-extractor/"
