@@ -18,4 +18,4 @@ This tool was made by David Balfour in the Behavioural GEMs lab at Flinders Univ
 
 # How to Cite
 
-Balfour, D. (2025). TikTok Metadata Extractor (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.15341720
+Balfour, D., & Cohen-Woods, S. (2025). TikTok Metadata Extractor (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.15341720
